@@ -1,0 +1,2 @@
+# RustCheatsRenamer
+RustCheatsRenamer by Triomonitor
